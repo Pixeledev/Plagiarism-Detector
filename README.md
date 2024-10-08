@@ -18,10 +18,10 @@ The Plagiarism Detection Tool is designed to compare two text files and detect s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/plagiarism-detection-tool.git
+   git clone https://github.com/your-username/Plagiarism-Detector.git
 2. Navigate to the project directory:
     ```bash
-   cd plagiarism-detection-tool
+   cd Plagiarism-Detector
    
 ## Usage
 1. Place the two text files you want to compare in the ./Test/ directory. 
