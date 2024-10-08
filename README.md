@@ -25,10 +25,10 @@ The Plagiarism Detection Tool is designed to compare two text files and detect s
    
 ## Usage
 1. Place the two text files you want to compare in the ./Test/ directory. 
-2. Modify the file paths in the main() function of plagiarism_detection.py if necessary.
+2. Modify the file paths in the main() function of plag.py if necessary.
 3. Run it:
     ```bash
-   python plagiarism_detection.py
+   python plag.py
 
 ## Example
 To check for plagiarism between test1.txt and test2.txt in the ./Test/ directory, the tool will output the similarity percentage and whether plagiarism is detected.
